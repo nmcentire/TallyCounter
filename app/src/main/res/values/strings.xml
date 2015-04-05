@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tally Counter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Clear Count</string>
+
+</resources>
